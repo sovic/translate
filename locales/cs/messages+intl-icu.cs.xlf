@@ -2,11 +2,17 @@
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 https://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
   <file original="" source-language="" target-language="cs" datatype="plaintext">
     <body>
-      <trans-unit id="general.account_settings">
+      <trans-unit id="general.account_settings" xml:space="preserve" approved="no">
         <source>general.account_settings</source>
+        <target state="translated">Nastavení</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="general.actions.add_photos" approved="no">
         <source>general.actions.add_photos</source>
+        <target state="translated">Nahrát fotky</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="general.actions.add_videos" approved="no">
+        <source>general.actions.add_videos</source>
+        <target state="translated">Přidat videa</target>
       </trans-unit>
     </body>
   </file>
