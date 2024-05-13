@@ -9,6 +9,10 @@
         <source>general.actions.add_photos</source>
         <target state="translated">general.actions.add_photos</target>
       </trans-unit>
+      <trans-unit xml:space="preserve" id="general.actions.add_videos" approved="no">
+        <source>general.actions.add_videos</source>
+        <target state="translated">general.actions.add_videos</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>
