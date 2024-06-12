@@ -13,6 +13,10 @@
         <source>general.actions.add_videos</source>
         <target state="translated">general.actions.add_videos</target>
       </trans-unit>
+      <trans-unit xml:space="preserve" id="test" approved="no">
+        <source>test</source>
+        <target state="translated">test</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>
