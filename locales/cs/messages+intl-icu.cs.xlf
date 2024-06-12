@@ -14,6 +14,13 @@
         <source>general.actions.add_videos</source>
         <target state="translated">Přidat videa</target>
       </trans-unit>
+      <trans-unit xml:space="preserve" id="test" approved="no">
+        <source>test</source>
+        <target state="translated">{value, plural,
+=1 {Male}
+other {Female}
+}</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>
